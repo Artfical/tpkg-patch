@@ -1,0 +1,23 @@
+{
+ "name": "patch",
+ "version": "2.7.6",
+ "license": "GPL-3.0-or-later",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "patch-2.7.6.tar.xz"
+ ],
+ "desc": "GNU patch 2.7.6",
+ "file": "patch-2.7.6.tpkg",
+ "size": 107157,
+ "sha256": "98750ebbf8c8628aa26bcb34313f9bf1b2ee9d6fccba8d14f841aa431919d837",
+ "unpacked": 199176,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "patch": "bin/patch"
+ }
+}
